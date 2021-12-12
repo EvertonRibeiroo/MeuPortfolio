@@ -82,7 +82,6 @@ section{
 header{
     position: fixed;
     top:0; left:0;
-  
     height:100%;
     width:35rem;
     background:#1a1a1a;
@@ -144,7 +143,7 @@ header .navbar ul li a:hover{
     cursor: pointer;
     font-size: 2.5rem;
     padding:1rem 1.5rem;
-    z-index: 10000;
+    z-index: 1000;
     display: none;
 }
 
